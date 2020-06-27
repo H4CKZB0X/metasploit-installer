@@ -1,0 +1,2 @@
+# metasploit-installer
+install metasploit
